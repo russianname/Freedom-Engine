@@ -9,3 +9,4 @@ How to use
 2. extractthe files
 3. run Freedom Engine.exe
 ----------------------------------------------------------------------------------------------
+edit: it has a basic ui because i'm not good at ui's but it should do the trick
